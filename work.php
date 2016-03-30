@@ -29,6 +29,52 @@
           <li class="medium-6 columns web">
             <div class="work-content">
               <div class="work-item">
+                  <img src="img/work/display/buildingops.png" alt="">
+                  <div class="mask"><h2>Autodesk Building Ops</h2></div>
+                  <div class="foldCorner">
+                    <svg width="3.5em" height="3.5em" viewBox="0 0 1 1" class="foldTriangle">
+                      <polygon points="0,0 0,1 1,1" style="fill: rgb(59,59,59)" />
+                    </svg>
+                    <span class="icon-js1 infoIcon"></span>
+                    <div class="infoOverlay">
+                      <ul>
+<!--                         <li data-reveal-id="feedme"><span class="icon-search"></span><div><a>Detail</a></div></li> -->
+                        <li><span class="icon-globe"></span><div>Web App</div></li>
+                        <li><span class="icon-js1"></span><div>EmberJS, Ruby on Rails</div></li>
+                        <li class="show-for-large-up"><i class="fi-calendar"></i><div>Jan - July 2015</div></li>
+                        <li class="gotolink"><i class="fi-link"></i><div><a href="http://autodeskbuildingops.com" target="_blank">autodeskbuildingops.com</a></div></li>
+                      </ul>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </li>
+          <li class="medium-6 columns web">
+            <div class="work-content">
+              <div class="work-item">
+                  <img src="img/work/display/feedme.png" alt="">
+                  <div class="mask"><h2>Feed Me – Boston Food Truck Tracker</h2></div>
+                  <div class="foldCorner">
+                    <svg width="3.5em" height="3.5em" viewBox="0 0 1 1" class="foldTriangle">
+                      <polygon points="0,0 0,1 1,1" style="fill: rgb(59,59,59)" />
+                    </svg>
+                    <span class="icon-js1 infoIcon"></span>
+                    <div class="infoOverlay">
+                      <ul>
+<!--                         <li data-reveal-id="feedme"><span class="icon-search"></span><div><a>Detail</a></div></li> -->
+                        <li><span class="icon-globe"></span><div>Web App</div></li>
+                        <li><span class="icon-js1"></span><div>AngularJS, Mapbox</div></li>
+                        <li class="show-for-large-up"><i class="fi-calendar"></i><div>Nov 2015 - Apr 2016</div></li>
+                        <li class="gotolink"><i class="fi-link"></i><div><a href="http://molingguo.com/foodtrucks" target="_blank">molingguo.com/foodtrucks</a></div></li>
+                      </ul>
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </li>
+          <li class="medium-6 columns web">
+            <div class="work-content">
+              <div class="work-item">
                   <img src="img/work/display/hgse.png" alt="">
                   <div class="mask"><h2>HGSE New Website</h2></div>
                   <div class="foldCorner">
@@ -83,7 +129,6 @@
                     </div>
                   </div>
               </div>
-              
             </div>
           </li>
           <li class="medium-6 columns web mobile">
